@@ -240,5 +240,5 @@ export default [
         { name: "ForestBlues", color: "#0a3d62" },
         { name: "ReefEncounter", color: "#079992" }
       ]
-    };
+    },
   ];
